@@ -88,4 +88,4 @@ PRs that change the trigger conditions, refine the back-off behavior, or improve
 
 ## License
 
-MIT (or whatever your team prefers — adjust this section to match your team's conventions).
+MIT — feel free to use, modify, and share. See [LICENSE](./LICENSE) for details.
